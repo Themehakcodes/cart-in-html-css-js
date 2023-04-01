@@ -1,5 +1,4 @@
 Cart-in-HTML-CSS-JS
-[logo]: https://cyberinsdier.com/wp-content/uploads/2023/03/cropped-My-project-1-18.png "Logo Title Text 2"
 🛒 This is a simple e-commerce website built using HTML, CSS, and JavaScript. The website features a shopping cart that allows users to add and remove items, as well as a checkout process that calculates the total cost of the items.
 
 Demo
